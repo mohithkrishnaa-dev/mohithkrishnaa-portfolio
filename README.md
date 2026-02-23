@@ -45,4 +45,3 @@ Any updates pushed to the main branch automatically trigger a redeploy.
 
 LinkedIn: https://linkedin.com/in/mohithkrishnaa  
 GitHub: https://github.com/mohithkrishnaa-dev  
-Email: your-email@example.com
